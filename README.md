@@ -1,6 +1,6 @@
 
 
-<img align="right" height="490em" src="https://raw.githubusercontent.com/gist/thiagocorreabotelho/bf6f88bda139b65fe285d9871eecc908/raw/ba30fff04dd3e176ef1159411307cda79420d3e5/cardperfil.svg"/>
+<img align="right" height="490em" src="https://gist.githubusercontent.com/thiagobotelhonet/bf6f88bda139b65fe285d9871eecc908/raw/ba30fff04dd3e176ef1159411307cda79420d3e5/cardperfil.svg"/>
 <h3 align="left">Olá, sou Thiago Corrêa 🤘🏻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagocorreabotelho&color=yellow" alt="Número de visitas" /> </p>
 
