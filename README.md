@@ -59,16 +59,12 @@ Além da programação em si, também tenho experiência em metodologias ágeis,
 ## Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-
-[<img align="left" height="94px" width="94px" alt="Sinqa" src="https://github.com/thiagobotelhonet/thiagobotelhonet/assets/99252640/30046e42-cd71-42b0-81cb-7d32633fee11"/>](https://www.funcao.com.br/)
-
 **Desenvolvedor .NET PLENO (ATUAL)** \
 [**Função Sistemas**](https://www.funcao.com.br) • Full-time \
 Linguagens & Tecnologias: `C#`, `APS NET FRAMEWORK`, `ASP NET CORE`, `HTML`, `ANGULAR JS`, `JAVASCRIPT`, `XAMARIN`\
 Projetos em destaque: Portal financeiros.
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Sinqa" src="https://github.com/thiagobotelhonet/thiagobotelhonet/assets/99252640/64191f34-1073-4cb0-98f8-c15cb9861527"/>](https://www.sinqia.com.br/)
 
 **Desenvolvedor .NET JR** \
 [**Sinqia**](https://www.sinqia.com.br/) • Full-time \
@@ -76,7 +72,6 @@ Linguagens & Tecnologias: `C#`, `APS NET FRAMEWORK`, `ASP NET CORE`, `HTML`, `AN
 Projetos em destaque: Portal financeiros para benefios
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://github.com/thiagobotelhonet/thiagobotelhonet/assets/99252640/bc419b7a-cab0-4664-b65d-01817381178e"/>](https://pedidoeletronico.com.br/)
 
 **Desenvolvedor .NET JR** \
 [**Pedido Eletrônico**](https://pedidoeletronico.com.br/) • Full-time \
@@ -84,8 +79,6 @@ Linguagens & Tecnologias: `C#`, `APS NET FRAMEWORK`, `ASP NET CORE`, `HTML`, `AN
 Projetos em destaque: [Portal Pedido Eletrônico](https://www.pedidoeletronico.com/), E-commerce, Sistema de vendas.
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Out of the box" src="https://github.com/thiagobotelhonet/thiagobotelhonet/assets/99252640/f475edf4-08a0-4d3a-8901-838f0f2e23e9"/>]([https://nubank.com.br](https://outoffthebox.tech)/)
-
 **Desenvolvedor .NET JR** \
 [**Dnx Soluções**](https://dnxsoluoes.com.br/) • Full-time \
 Linguagens & Tecnologias: `C#`, `ASP NET CORE`, `HTML`, `BOOTSTRAP`, `JAVASCRIPT`, `XAMARIN` \
@@ -93,13 +86,6 @@ Projetos em destaque: Sistemas em geral (Fabrica de software)
 <br/>
 <br/>
 
-
-**Desenvolvedor .NET JR** \
-[**Dnx Soluções**](https://dnxsoluoes.com.br/) • Full-time \
-Linguagens & Tecnologias: `C#`, `ASP NET CORE`, `HTML`, `BOOTSTRAP`, `JAVASCRIPT`, `XAMARIN` \
-Projetos em destaque: Sistemas em geral (Fabrica de software)
-<br/>
-<br/>
 
 
 <!--
