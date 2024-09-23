@@ -1,8 +1,8 @@
 
 
-<img align="right" height="490em" src="https://gist.githubusercontent.com/thiagobotelhonet/bf6f88bda139b65fe285d9871eecc908/raw/ba30fff04dd3e176ef1159411307cda79420d3e5/cardperfil.svg"/>
+<img align="right" height="490em" src="https://gist.githubusercontent.com/thiagocorreanet/bf6f88bda139b65fe285d9871eecc908/raw/ba30fff04dd3e176ef1159411307cda79420d3e5/cardperfil.svg"/>
 <h3 align="left">Olá, sou Thiago Corrêa 🤘🏻</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagobotelhonet&color=yellow" alt="Número de visitas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagocorreanet&color=yellow" alt="Número de visitas" /> </p>
 
 Sou um desenvolvedor de sistemas que trabalha com abordagem database-first. Possuo habilidades em diversas tecnologias, incluindo C#, ASP.NET CORE, HTML, CSS, JS, Bootstrap e SQL Server. Ao longo da minha carreira, tive a oportunidade de desenvolver sistemas LMS, CMS, E-commerce e intranet.
 
@@ -34,8 +34,8 @@ Além da programação em si, também tenho experiência em metodologias ágeis,
 ----
 
 <div align='center'>
- <p><img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=thiagobotelhonet&show_icons=true&theme=tokyonight&locale=en" alt="thiagobotelhonet" />
-	<img align="center"  width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagobotelhonet&theme=tokyonight" alt="thiagobotelhonet" /></p>
+ <p><img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=thiagocorreanet&show_icons=true&theme=tokyonight&locale=en" alt="thiagocorreanet" />
+	<img align="center"  width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagocorreanet&theme=tokyonight" alt="thiagocorreanet" /></p>
 </div>
 
 ## Contato 
