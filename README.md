@@ -61,6 +61,12 @@ Ao longo da minha carreira, desenvolvi sistemas variados como LMS, CMS, E-commer
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 **Desenvolvedor .NET PLENO (ATUAL)** \
+[**Leanwork group**](https://www.leanwork.com.br/) • Full-time \
+Linguagens & Tecnologias: `C#`, `ASP NET CORE`, `Clean Architecture`, `Teste Unitários`\
+Projetos em destaque: Portal financeiros.
+<br/>
+
+**Desenvolvedor .NET PLENO** \
 [**Função Sistemas**](https://www.funcao.com.br) • Full-time \
 Linguagens & Tecnologias: `C#`, `APS NET FRAMEWORK`, `ASP NET CORE`, `HTML`, `ANGULAR JS`, `JAVASCRIPT`, `XAMARIN`\
 Projetos em destaque: Portal financeiros.
