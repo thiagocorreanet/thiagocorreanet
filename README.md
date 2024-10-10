@@ -63,7 +63,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Desenvolvedor .NET PLENO (ATUAL)** \
 [**Leanwork group**](https://www.leanwork.com.br/) • Full-time \
 Linguagens & Tecnologias: `C#`, `ASP NET CORE`, `Clean Architecture`, `Teste Unitários`\
-Projetos em destaque: Portal financeiros.
+Projetos em destaque: Backoffice.
 <br/>
 
 **Desenvolvedor .NET PLENO** \
