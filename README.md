@@ -1,100 +1,67 @@
+## Hello! I' am the Thiago Corrêa 🤟🏻
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagocorreab/)
+[![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thiagocorreanet)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thiagocorreanet/)
+[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thiagogcbotelho)
 
+I am a systems developer with solid experience in database-first and code-first approaches. Throughout my career, I have developed a variety of systems, including Learning Management Systems (LMS), Content Management Systems (CMS), e-commerce platforms, and intranets.
+I possess extensive experience in agile methodologies, with an emphasis on SCRUM, which allows me to deliver projects efficiently and collaboratively. I utilize project management tools such as Azure DevOps and GitHub Projects to ensure optimized and effective management.
+My commitment to quality and innovation drives me to seek solutions that meet clients' needs and promote continuous improvement of processes.
 
-<img align="right" height="490em" src="https://gist.githubusercontent.com/thiagocorreanet/bf6f88bda139b65fe285d9871eecc908/raw/ba30fff04dd3e176ef1159411307cda79420d3e5/cardperfil.svg"/>
-<h3 align="left">Olá, sou Thiago Corrêa 🤘🏻</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagocorreanet&color=yellow" alt="Número de visitas" /> </p>
+In addition to my corporate work, I manage groups and produce videos for the .NET community, sharing updates and disseminating knowledge. My goal is to contribute to the growth and learning of other professionals, fostering a collaborative and enriching environment.
+ 
+ 
+<div>
+  <a href="https://github.com/thiagocorreanet">
 
-Sou um desenvolvedor de sistemas especializado tanto em database-first quanto em code-first. Tenho domínio em tecnologias como C#, ASP.NET CORE, HTML, CSS, JavaScript, Bootstrap e SQL Server.
+  
 
-Ao longo da minha carreira, desenvolvi sistemas variados como LMS, CMS, E-commerce e intranets. Também sou experiente em metodologias ágeis, particularmente SCRUM. Uso ferramentas de gestão de projetos, como Azure DevOps e GitHub Project, para garantir uma gestão eficiente das demandas e atividades do projeto.
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-----
-
-<p align='left'>
-  💻 Tecnologias<br/><br/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-----
-
-<div align='center'>
- <p><img align="center" width="400em" src="https://github-readme-stats.vercel.app/api?username=thiagocorreanet&show_icons=true&theme=tokyonight&locale=en" alt="thiagocorreanet" />
-	<img align="center"  width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagocorreanet&theme=tokyonight" alt="thiagocorreanet" /></p>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagocorreanet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocorreanet&layout=compact&langs_count=7&theme=dracula"/>
+ </a>
 </div>
 
-## Contato 
 
- 
-  
-<p align="left" style="background:yellow">
+## I have knowledge
 
-<a href="https://twitter.com/thiagocorreadev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-thiagocorreadev-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/thiagocorreab/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-thiagocorreab-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/thiagogilsoncorrea/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-thiagogilsoncorrea-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-  
-</p>
-
-## Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-**Desenvolvedor .NET PLENO (ATUAL)** \
-[**Leanwork group**](https://www.leanwork.com.br/) • Full-time \
-Linguagens & Tecnologias: `C#`, `ASP NET CORE`, `Clean Architecture`, `Teste Unitários`\
-Projetos em destaque: Backoffice.
-<br/>
-
-**Desenvolvedor .NET PLENO** \
-[**Função Sistemas**](https://www.funcao.com.br) • Full-time \
-Linguagens & Tecnologias: `C#`, `APS NET FRAMEWORK`, `ASP NET CORE`, `HTML`, `ANGULAR JS`, `JAVASCRIPT`, `XAMARIN`\
-Projetos em destaque: Portal financeiros.
-<br/>
+## Skills 🚀
+<div style="display: inline_block">
+  <img align="center" alt="net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=whitee" />
+  <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="go" src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div><br/>
 
 
-**Desenvolvedor .NET JR** \
-[**Sinqia**](https://www.sinqia.com.br/) • Full-time \
-Linguagens & Tecnologias: `C#`, `APS NET FRAMEWORK`, `ASP NET CORE`, `HTML`, `ANGULAR JS`, `JAVASCRIPT`, `XAMARIN`\
-Projetos em destaque: Portal financeiros para benefios
-<br/>
+## DataBases 💾
+<div style="display: inline_block">
+  <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img align="center" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img align="center" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+  <img align="center" alt="postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div><br/>
 
+## Cloud ☁
+<div style="display: inline_block">
+  <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="azure" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+</div><br/>
 
-**Desenvolvedor .NET JR** \
-[**Pedido Eletrônico**](https://pedidoeletronico.com.br/) • Full-time \
-Linguagens & Tecnologias: `C#`, `APS NET FRAMEWORK`, `ASP NET CORE`, `HTML`, `ANGULAR JS`, `JAVASCRIPT`, `XAMARIN`\
-Projetos em destaque: [Portal Pedido Eletrônico](https://www.pedidoeletronico.com/), E-commerce, Sistema de vendas.
-<br/>
+## IDE 👩‍💻
+<div style="display: inline_block">
+  <img align="center" alt="vs" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img align="center" alt="rider" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" />
+  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div><br/>
 
-**Desenvolvedor .NET JR** \
-[**Dnx Soluções**](https://dnxsoluoes.com.br/) • Full-time \
-Linguagens & Tecnologias: `C#`, `ASP NET CORE`, `HTML`, `BOOTSTRAP`, `JAVASCRIPT`, `XAMARIN` \
-Projetos em destaque: Sistemas em geral (Fabrica de software)
-<br/>
-<br/>
+## MQ 📂
+<div style="display: inline_block">
+  <img align="center" alt="rabbit" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</div><br/>
 
 
 
-<!--
+
 
 
